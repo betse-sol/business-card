@@ -1,0 +1,35 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avater {
+    width: 150px;
+}
+.main {
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #a182bef3;
+    border: 1px dotted #2F4F4F;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-bottom: 10px solid  rgb(81, 156, 255);
+}
+.text{
+    margin-top: 65px;
+    text-align: center;
+    font-size: larger;
+    font-style: oblique;
+    font-weight: bold;
+
+}
+
+.rr {
+    
+    width:150px;
+    border-radius: 100%;
+    background-color: blue;
+
+}
